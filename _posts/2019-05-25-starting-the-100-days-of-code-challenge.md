@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Starting the 100 Days of Code Challenge - Day 1"
+title: "Starting the 100 Days of Code Challenge"
 date: 2019-05-25
 ---
 
