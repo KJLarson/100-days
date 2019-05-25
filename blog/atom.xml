@@ -1,0 +1,18 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Kari's 100 Days of Code</title>
+	<link href="https://kjlarson.github.io/100-days/blog/atom.xml" rel="self"/>
+	<link href="https://kjlarson.github.io/100-days/blog"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>https://kjlarson.github.io/100-days/blog</id>
+	<author>
+		<name>Kari Larson</name>
+		<email>kjlarson1@outlook.com</email>
+	</author>
+
+	{% for post in site.posts %}
+		<entry>
