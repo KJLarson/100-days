@@ -1,4 +1,4 @@
 name: #100DaysOfCode: A Coding Journey
 markdown: kramdown
 
-permalink: /blog/:year/:month/:day/:title
+permalink: 100-days/blog/:year/:month/:day/:title
