@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting the 100 Days of Code Challenge - Day 1"
-date: 2014-04-30
+date: 2019-05-25
 ---
 
 # Day 1: Starting the 100 Days of Code Challenge
