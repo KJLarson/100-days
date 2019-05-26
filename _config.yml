@@ -2,3 +2,5 @@ name: #100DaysOfCode: A Coding Journey
 markdown: kramdown
 
 permalink: blog/:year/:month/:day/:title
+
+baseurl: /100-days
