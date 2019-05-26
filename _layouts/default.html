@@ -1,20 +1,5 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>{{ page.title }}</title>
-		<link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | relative_url }}">
-	</head>
+{% include head.html %}
 
-  <body>
-		<nav>
-			<a href="https://kjlarson.github.io/100-days">Home</a>
-			<a href="https://kjlarson.github.io/100-days/blog/">Blog</a>
-		</nav>
-		
-		{{ content }}
-		
-		<footer>
-			<p>Made by Kari</p>
-		</footer>
-  </body>
-</html>
+    {{ content }}
+
+{% include foot.html %}
