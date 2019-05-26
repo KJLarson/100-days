@@ -14,6 +14,6 @@ I also used [Markdown Guide](https://www.markdownguide.org/) to write this post,
 
 Well, it ended up being a long day of working on this blog. The instructions I followed created a site directly on GitHub. I wanted to set up a local environment with Jekyll so that I could see my changes before committing them. I did some research, and discovered the version of Ruby that came on my MacBook Pro was too old for what I needed to do. I tried updating it, but it wouldn't work. I did a whole bunch of searching and tried a ton of things, but I just couldn't do it. I kept getting the result "Error running '__rvm_make -j4'" and it would tell me to look at one of the logs. **I didn't understand any of it.** Finally, I search using the right terms terms from the log and found the [Stack Overflow question/answers](https://stackoverflow.com/questions/54132958/unable-to-install-any-ruby-with-rvm-on-macos-10-14-2-mojave-error-running-rv) that solved my problems (it had to do with Mac OS updates). It took a long time to follow all the steps, but I finally got everything working!!! I feel like a wizard!
 
-![Wizard]({{ baseurl }}/assets/wizard.svg)
+![Wizard]({{ site.baseurl }}/assets/wizard.svg)
 
 So, I spent a lot of time on web dev related stuff, but not necessarily coding. I think this was still really helpful, though, because it helped me understand some of the necessary set-up stuff.
