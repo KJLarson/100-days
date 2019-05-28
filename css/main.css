@@ -1,6 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	margin: 0;
+	width: 100%;
+	min-height: 100%;
+}
+
 body {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	background-color: #d9f7b7;
+	height: 100vh;
 }
 
 h1 {
