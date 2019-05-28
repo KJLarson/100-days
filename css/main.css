@@ -15,6 +15,7 @@ body {
 	color: #006161;
 	height: 100vh;
 	margin: 0;
+	padding: 80px 25px 65px 25px;
 }
 
 h1 {
@@ -26,7 +27,7 @@ cite {
 }
 
 .content {
-	padding: 80px 25px 65px 25px;	
+		
 }
 
 /* Navigation */
