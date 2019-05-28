@@ -35,12 +35,12 @@ h1 {
 
 h2 {
 	font-size: calc(20px + 4vw);	
-	margin: 1em;
+	margin: .5em;
 }
 
 h3 {
 	font-size: calc(18px + 3.5vw);	
-	margin: 1em;
+	margin: .5em;
 }
 
 cite {
