@@ -11,6 +11,10 @@ cite {
 	font-style: italic;
 }
 
+.content {
+	padding-top: 80px;	
+}
+
 /* Navigation */
 
 nav {
@@ -19,4 +23,6 @@ nav {
 	text-decoration: none;
 	background-color: #006161;
 	color: #FFD2FF;
+	height: 60px;
+	width: 100%;
 }
