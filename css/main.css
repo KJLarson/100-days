@@ -15,7 +15,7 @@ body {
 	color: #006161;
 	height: 100vh;
 	margin: 0;
-	padding: 80px 25px 65px 25px;
+	padding: 80px 0 65px 0;
 }
 
 h1 {
@@ -27,13 +27,14 @@ cite {
 }
 
 .content {
-		
+	margin: 0 25px;	
 }
 
 /* Navigation */
 
 nav {
 	position: fixed;
+	top: 0;
 	display: flex;
 	justify-content: center;
 	align-items: center;
