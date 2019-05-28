@@ -20,6 +20,7 @@ cite {
 nav {
 	position: fixed;
 	display: flex;
+	justify-content: center;
 	background-color: #006161;
 	height: 60px;
 	width: 100%;
@@ -29,4 +30,6 @@ nav {
 nav a {
 	color: #FFD2FF;
 	text-decoration: none;
+	font-size: 2em;
+	margin: 0 10px;
 }
