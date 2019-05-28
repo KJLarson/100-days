@@ -30,14 +30,17 @@ h1 {
 	color: #800080;
 /* 	font-size: 5vw; */
 	font-size: calc(24px + 5vw);
+	
 }
 
 h2 {
 	font-size: calc(20px + 4vw);	
+	margin: 1em;
 }
 
 h3 {
 	font-size: calc(18px + 3.5vw);	
+	margin: 1em;
 }
 
 cite {
