@@ -10,3 +10,11 @@ h1 {
 cite {
 	font-style: italic;
 }
+
+/* Navigation */
+
+nav {
+	position: fixed;
+	display: flex;
+	text-decoration: none;
+}
