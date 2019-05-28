@@ -86,3 +86,12 @@ footer {
 	justify-content: center;
 	align-items: center;
 }
+
+.goals {
+	text-align: center;
+}
+
+.goals ul {
+	display:inline-block;
+	text-align:left;	
+}
