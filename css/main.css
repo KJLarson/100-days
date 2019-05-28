@@ -28,7 +28,8 @@ h1, h2 {
 
 h1 {
 	color: #800080;
-	font-size: 5vw;
+/* 	font-size: 5vw; */
+	font-size: calc(16px + 3vw);
 }
 
 h2 {
