@@ -29,11 +29,11 @@ h1, h2 {
 h1 {
 	color: #800080;
 /* 	font-size: 5vw; */
-	font-size: calc(16px + 3vw);
+	font-size: calc(16px + 5vw);
 }
 
 h2 {
-	font-size: 4vw;	
+	font-size: calc(14px + 4vw);	
 }
 
 cite {
