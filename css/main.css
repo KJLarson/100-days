@@ -65,7 +65,7 @@ header {
 	align-items: center;
 }
 
-header>a {
+.brand {
 	font-size: 2em;	
 	font-family: 'Cute Font', cursive;
 }
@@ -76,7 +76,7 @@ nav {
 	align-items: center;
 }
 
-header a, nav a {
+.brand, nav a {
 	color: #FFD2FF;
 	text-decoration: none;
 	margin: 0 10px;
