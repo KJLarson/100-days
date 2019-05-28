@@ -65,17 +65,24 @@ header {
 	align-items: center;
 }
 
+header a {
+	font-size: 2em;	
+}
+
 nav {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
-nav a {
+header a, nav a {
 	color: #FFD2FF;
 	text-decoration: none;
-	font-size: 1.2em;
 	margin: 0 10px;
+}
+
+nav a {
+	font-size: 1.2em;	
 }
 
 /* End Navigation */
