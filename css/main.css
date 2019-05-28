@@ -66,8 +66,9 @@ header {
 }
 
 header.brand {
-	font-size: 3em;	
+	font-size: 2em;	
 	font-family: 'Cute Font', cursive;
+	margin-left: 10px;
 }
 
 nav {
@@ -79,11 +80,11 @@ nav {
 header.brand, nav a {
 	color: #FFD2FF;
 	text-decoration: none;
-	margin: 0 10px;
 }
 
 nav a {
-	font-size: 1.2em;	
+	font-size: 1.2em;
+	margin: 0 10px;
 }
 
 /* End Navigation */
