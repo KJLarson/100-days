@@ -22,7 +22,8 @@ body {
 }
 
 h1, h2 {
-	font-family: 'Cute Font', cursive;	
+	font-family: 'Cute Font', cursive;
+	text-align: center;
 }
 
 h1 {
