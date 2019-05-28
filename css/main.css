@@ -29,15 +29,15 @@ h1, h2, h3 {
 h1 {
 	color: #800080;
 /* 	font-size: 5vw; */
-	font-size: calc(20px + 5vw);
+	font-size: calc(24px + 5vw);
 }
 
 h2 {
-	font-size: calc(18px + 4vw);	
+	font-size: calc(20px + 4vw);	
 }
 
 h3 {
-	font-size: calc(16px + 3vw);	
+	font-size: calc(18px + 3vw);	
 }
 
 cite {
@@ -65,7 +65,7 @@ nav {
 nav a {
 	color: #FFD2FF;
 	text-decoration: none;
-	font-size: 2em;
+	font-size: 1.5em;
 	margin: 0 10px;
 }
 
