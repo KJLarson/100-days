@@ -13,6 +13,7 @@ body {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	background-color: #d9f7b7;
 	height: 100vh;
+	margin: 0;
 }
 
 h1 {
