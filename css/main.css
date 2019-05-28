@@ -55,4 +55,6 @@ footer {
 	padding-left: 25px;
 	background-color: #006161;
 	color: #FFD2FF;
+	position: fixed;
+	bottom: 0;
 }
