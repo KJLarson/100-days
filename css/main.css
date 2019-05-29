@@ -33,9 +33,8 @@ h1, h2, h3 {
 
 h1 {
 	color: #800080;
-/* 	font-size: 5vw; */
 	font-size: calc(24px + 5vw);
-
+    margin: 15px;
 }
 
 h2 {
@@ -70,7 +69,7 @@ header {
 	align-items: center;
     flex-wrap: wrap;
 }
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 460px) {
     header {
         height: 80px;
         justify-content: center;
