@@ -8,8 +8,10 @@ date: 2019-05-29
 
 After finishing that up, I finished doing the exercises for the [freeCodeCamp.com Responsive Web Design Certification](https://learn.freecodecamp.org/) and started the first project: [Build a Tribute Page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page). I built a page about Fred Rogers using their CodePen template. I got my page so it would pass all the tests, but I didn't like how it looked. I started messing around with the layout. I added CSS grid to the layout, and that worked ok. But then I tried changing some of the HTML tags for the timeline I included (I found an example online). The tags worked well for a standalone page, but when I added it to my page there was a header in the middle of my code. I was trying to make it more semantically correct. I ended up with this:
 
+<div>
 ![Screenshot of tribute page](https://res.cloudinary.com/karijl/image/upload/c_scale,w_650/v1559162388/jusdqrlmd5ignz4jscuf.png)
 {:.tribute-image}
+</div>
 
 At this point, I was stuck and tired so I decided to leave it like that and come back to it later.
 
