@@ -121,3 +121,8 @@ footer {
 	display:inline-block;
 	text-align:left;
 }
+
+.tribute-image {
+    width: 100%;
+    max-width: 100%;
+}
