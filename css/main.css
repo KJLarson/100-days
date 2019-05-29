@@ -21,6 +21,11 @@ body {
 	padding: 70px 0 65px 0;
 }
 
+code {
+    font-size: 1.2em;
+    background-color: rgba(177, 177, 177, 0.3);
+}
+
 h1, h2, h3 {
 	font-family: 'Cute Font', cursive;
 	text-align: center;
@@ -30,16 +35,16 @@ h1 {
 	color: #800080;
 /* 	font-size: 5vw; */
 	font-size: calc(24px + 5vw);
-	
+
 }
 
 h2 {
-	font-size: calc(20px + 4vw);	
+	font-size: calc(20px + 4vw);
 	margin: 15px;
 }
 
 h3 {
-	font-size: calc(18px + 3.5vw);	
+	font-size: calc(18px + 3.5vw);
 	margin: 10px;
 }
 
@@ -48,7 +53,7 @@ cite {
 }
 
 .content {
-	margin: 0 25px;	
+	margin: 0 25px;
 }
 
 /* Navigation */
@@ -66,7 +71,7 @@ header {
 }
 
 header div .brand {
-	font-size: 2.3em;	
+	font-size: 2.3em;
 	font-family: 'Cute Font', cursive;
 	margin-left: 10px;
 }
@@ -108,5 +113,5 @@ footer {
 
 .goals ul {
 	display:inline-block;
-	text-align:left;	
+	text-align:left;
 }
