@@ -8,4 +8,4 @@ date: 2019-05-28
 
 **Thoughts:** I like working with CSS. It can be tricky at times to get things to look and/or work the way you want them to, but I love the visual design element.
 
-**Link to work:**
+**Link to work:** [https://kjlarson.github.io/100-days/](https://kjlarson.github.io/100-days/)
