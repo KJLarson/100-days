@@ -68,6 +68,13 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+    flex-wrap: wrap;
+}
+@media screen and (max-width: 415px) {
+    header {
+        height: 80px;
+        justify-content: center;
+    }
 }
 
 header div .brand {
