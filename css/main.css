@@ -26,6 +26,10 @@ code {
     background-color: rgba(177, 177, 177, 0.3);
 }
 
+pre {
+    background-color: rgba(177, 177, 177, 0.3);
+}
+
 h1, h2, h3 {
 	font-family: 'Cute Font', cursive;
 	text-align: center;
