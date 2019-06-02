@@ -31,6 +31,10 @@ pre {
     display: inline-block;
 }
 
+pre > code {
+    background-color: inherit;
+}
+
 h1, h2, h3 {
 	font-family: 'Cute Font', cursive;
 	text-align: center;
