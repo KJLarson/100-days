@@ -10,6 +10,32 @@ Here's the simple text picture I made in the browser version of the playground:
 
 ![Data Pixels smiley face](https://res.cloudinary.com/karijl/image/upload/c_scale,w_600/v1559446329/data-pixels-2019-06-01.png)
 
+It's difficult to see the code in the image, so here it is:
+
+```
+import DataPixels from "./DataPixels.js";
+
+const r = "255, 0, 0, 255";    //Red
+const g = "0, 255, 0, 255";    //Green
+const b = "0, 0, 255, 255";    //Blue
+const _ = "0, 0, 0, 0";        //Transparent
+
+const data = [[b, b, g, g, g, b, b],
+              [b, g, g, g, g, g, b],
+              [g, g, r, g, r, g, g],
+              [g, g, g, g, g, g, g],
+              [g, r, g, g, g, r, g],
+              [g, g, r, r, r, g, g],
+              [b, g, g, g, g, g, b],
+              [b, b, g, g, g, b, b]];
+
+const size = 50;
+
+const image = new DataPixels(data, size).image;
+
+document.body.appendChild(image);
+```
+
 **Thoughts:** There wasn't a lot of actual coding today, but I think I can still count this work. I used the command line (npm and other stuff), installed/built a package on my local environment, worked with GitHub, and practiced trouble-shooting. Those are all important skills to practice.
 
 **Links to work:** No live link for today's work.
