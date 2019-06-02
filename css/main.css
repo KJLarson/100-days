@@ -28,6 +28,7 @@ code {
 
 pre {
     background-color: rgba(177, 177, 177, 0.3);
+    display: inline-block;
 }
 
 h1, h2, h3 {
