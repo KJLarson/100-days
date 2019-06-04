@@ -17,6 +17,6 @@ Still to do:
 
 **Idea for Future:** I wonder if it would be possible to make the keys into actual buttons so that when a user clicks on one the text appears on the screen. I think JavaScript might be able to do it.
 
-**Thoughts:** This has been a pretty fun project. I'm pretty impressed with it so far.
+**Thoughts:** This has been a pretty fun project. I'm pretty impressed with my work so far.
 
 **Links to work:** [Macbook Keyboard on CodePen](https://codepen.io/KariJL/pen/9718a65d448d524a55f12f073328b3a9)
