@@ -62,7 +62,7 @@ Template for the UI (includes iterating through the data):
 
 {% block main %}
   {% for contributor in contributors %}
-    &lt;section>
+    &lt;section&gt;
       &lt;ul&gt;
         &lt;li&gt;{{ contributor.name }} <!-- or {{ name }} ? -->
           &lt;ul&gt;
