@@ -50,6 +50,7 @@ return render_template('contributors.html', name=contributors.name, teams=contri
 </code></pre>
 
 Template for the UI (includes iterating through the data):
+{% raw %}
 <pre><code>
 {% extends "en/base.html" %}
 
@@ -75,6 +76,7 @@ Template for the UI (includes iterating through the data):
   {% endfor %}
 {% endblock %}
 </code></pre>
+{% endraw %}
 
 
 **Thoughts:** This has been a good experience so far.
