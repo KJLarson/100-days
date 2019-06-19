@@ -62,17 +62,17 @@ Template for the UI (includes iterating through the data):
 
 {% block main %}
   {% for contributor in contributors %}
-    <section>
-      <ul>
-        <li>{{ contributor.name }} <!-- or {{ name }} ? -->
-          <ul>
-            <li>{{ contributor.teams }}</li> <!-- or {{ teams }} ? -->
-            <li>{{ contributor.github }}</li> <!-- or {{ github }} ? -->
-            <li>{{ contributor.twitter }}</li> <!-- or {{ twitter }} ? -->
-          </ul>
-        </li>
-      </ul>
-    </section>
+    &lt;section>
+      &lt;ul&gt;
+        &lt;li&gt;{{ contributor.name }} <!-- or {{ name }} ? -->
+          &lt;ul&gt;
+            &lt;li&gt;{{ contributor.teams }}&lt;/li&gt; <!-- or {{ teams }} ? -->
+            &lt;li&gt;{{ contributor.github }}&lt;/li&gt; <!-- or {{ github }} ? -->
+            &lt;li&gt;{{ contributor.twitter }}&lt;/li&gt; <!-- or {{ twitter }} ? -->
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/section&gt;
   {% endfor %}
 {% endblock %}
 </code></pre>
