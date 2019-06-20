@@ -35,6 +35,7 @@ with open('path to contributors.json') as contributors_file:
 </code></pre>
 
 Passing the data map to the Flask template:
+{% raw %}
 <code><pre>
 import reports as report_util
 from flask import jsonify
@@ -48,7 +49,7 @@ if get_format(request) == 'json':
 
 return render_template('contributors.html', name=contributors.name, teams=contributors.teams, etc)
 </code></pre>
-
+{% endraw %}
 Template for the UI (includes iterating through the data):
 {% raw %}
 <pre><code>
