@@ -40,10 +40,10 @@ Passing the data map to the Flask template:
 import reports as report_util
 from flask import jsonify
 
-@app.route('path to contributors.html')
+&#64;app.route('path to contributors.html')
   reports = report_util.get_reports()
 
-#return as JSON
+&#35;return as JSON
 if get_format(request) == 'json':
   return jsonify(name=contributors.name, teams=contributors.teams, etc)
 
