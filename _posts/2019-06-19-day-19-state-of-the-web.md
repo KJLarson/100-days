@@ -36,7 +36,7 @@ with open('path to contributors.json') as contributors_file:
 
 Passing the data map to the Flask template:
 {% raw %}
-<code><pre>
+<pre><code>
 import reports as report_util
 from flask import jsonify
 
