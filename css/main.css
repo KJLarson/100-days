@@ -132,10 +132,24 @@ footer {
 }
 
 .tribute-image {
-    width: 100%;
-    max-width: 100%;
+  width: 100%;
+  max-width: 100%;
 }
 
 div.post {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.posts-list {
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+	grid-column-gap: 15px;
+}
+
+.posts-list p {
+	margin: 0;
+}
+
+.date {
+	justify-self: end;
 }
