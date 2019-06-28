@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 23: State of the Web"
+title: "Day 23: State of the Web (The Web Almanac)"
 date: 2019-06-25
 ---
 
