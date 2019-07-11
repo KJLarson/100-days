@@ -153,3 +153,7 @@ div.post {
 .date {
 	justify-self: end;
 }
+
+#sad-angry {
+	width: 150px;
+}
