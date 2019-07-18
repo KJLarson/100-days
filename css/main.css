@@ -157,3 +157,11 @@ div.post {
 #sad-angry {
 	width: 150px;
 }
+
+.ta-da {
+	display: inline-block;
+	font-size: 3em;
+	margin: 10px 5px;
+	vertical-align: top;
+	font-weight: 600;
+}
